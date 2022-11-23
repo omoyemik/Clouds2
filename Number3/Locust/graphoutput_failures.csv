@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/integral/0/3.1,HTTPError('404 Client Error: NOT FOUND for url: https://microserviceintegration.azurewebsites.net/integral/0/3.1'),76729
